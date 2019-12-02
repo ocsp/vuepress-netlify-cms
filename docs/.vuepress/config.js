@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Kashima Press',
-  description: 'Netlify + VuePress',
+  description: 'Expression of ideas.',
   themeConfig: {
     docsDir: 'docs',
     repo: 'ocsp/vuepress-netlify-cms',
     sidebar: [
       '/',
       '/welcome',
-      '/test'
+      '/tag'
     ],
     nav: [
       {
