@@ -7,7 +7,7 @@ module.exports = {
     sidebar: [
       '/',
       '/welcome',
-      '/tag'
+      '/test'
     ],
     nav: [
       {
@@ -16,3 +16,4 @@ module.exports = {
       }
     ]
   }
+}
