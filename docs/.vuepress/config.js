@@ -1,7 +1,11 @@
 module.exports = {
   title: 'Kashima Press',
   description: 'Expression of ideas.',
-  themeConfig: {
+    head: [
+    ['link', { rel: 'icon', href: '//api.amanohina.com/favicon.ico' }]
+  ]
+}
+themeConfig: {
     docsDir: 'docs',
     repo: 'ocsp/vuepress-netlify-cms',
     sidebar: [
