@@ -1,7 +1,7 @@
 ---
 home: true 
 heroImage: /images/vuejsradar.png
-actionText: Read more →
+actionText: Read all →
 actionLink: /tag
 features:
 - title: Markdown Editing 
@@ -11,5 +11,5 @@ features:
 - title: Powerful Deployments
   details: Leverage the power of netlify and VuePress to deploy statically 
 footer: Kashima Nai · All rights reserved
-title: FRONT PAGE
+title: Kashima Nai's ideas production
 ---
