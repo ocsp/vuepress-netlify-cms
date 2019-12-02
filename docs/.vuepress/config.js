@@ -1,9 +1,9 @@
 module.exports = {
-  title: 'Netlify CMS + VuePress',
+  title: 'Kashima Press',
   description: 'Netlify + VuePress',
   themeConfig: {
     docsDir: 'docs',
-    repo: 'andreliem/vuepress-netlify-cms',
+    repo: 'ocsp/vuepress-netlify-cms',
     sidebar: [
       '/',
       '/welcome',
