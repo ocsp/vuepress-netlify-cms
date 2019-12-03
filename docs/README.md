@@ -11,5 +11,5 @@ features:
 - title: Powerful Deployments
   details: Leverage the power of netlify and VuePress to deploy statically 
 footer: Kashima Nai · All rights reserved
-title: Kashima Nai's ideas production
+title: FRONT PAGE
 ---
